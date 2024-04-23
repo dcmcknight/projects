@@ -1,2 +1,2 @@
 # projects
-Jupyter lab projects
+A collection of data projects
